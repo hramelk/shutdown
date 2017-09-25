@@ -116,7 +116,7 @@
             // checkBoxForce
             // 
             this.checkBoxForce.AutoSize = true;
-            this.checkBoxForce.Location = new System.Drawing.Point(224, 36);
+            this.checkBoxForce.Location = new System.Drawing.Point(224, 34);
             this.checkBoxForce.Name = "checkBoxForce";
             this.checkBoxForce.Size = new System.Drawing.Size(50, 17);
             this.checkBoxForce.TabIndex = 3;
